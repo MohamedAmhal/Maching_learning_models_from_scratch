@@ -1,6 +1,6 @@
 # Machine Learning Models from Scratch
 
-![Machine Learning](https://example.com/ml_image.jpg)
+![Machine Learning](https://miro.medium.com/v2/resize:fit:1400/1*tk7yOuVLssfq02J7AsPfKw.jpeg)
 
 ## Introduction
 
