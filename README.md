@@ -28,10 +28,10 @@ Many students import machine learning models from libraries without fully unders
 ## Models Implemented
 
 - [x] Linear Regression
-- [x] Logistic Regression
-- [x] K-Nearest Neighbors (KNN)
-- [x] Decision Trees
-- [x] Support Vector Machines (SVM)
+- [ ] Logistic Regression
+- [ ] K-Nearest Neighbors (KNN)
+- [ ] Decision Trees
+- [ ] Support Vector Machines (SVM)
 - [ ] Neural Networks (coming soon)
 
 Stay tuned for more models as they are continuously added!
