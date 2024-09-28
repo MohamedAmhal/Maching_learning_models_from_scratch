@@ -1,5 +1,7 @@
 # Linear Regression Models from Scratch
 
+![Machine Learning](https://www.stanford.edu/class/stats202/figs/Chapter3/3.1.png)
+
 This folder contains two Jupyter notebooks demonstrating the implementation of **Linear Regression** from scratch using Python. Each notebook covers different aspects of Linear Regression, from simple to multiple variables, providing a solid foundation for understanding how these models work internally without relying on machine learning libraries.
 
 ## Files in this Folder
