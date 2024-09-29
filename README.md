@@ -28,6 +28,7 @@ Many students import machine learning models from libraries without fully unders
 ## Models Implemented
 
 - [x] Linear Regression
+- [x] Feature Scaling and Learning Rate (Linear regression)
 - [ ] Logistic Regression
 - [ ] K-Nearest Neighbors (KNN)
 - [ ] Decision Trees
