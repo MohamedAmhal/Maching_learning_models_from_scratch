@@ -29,6 +29,7 @@ Many students import machine learning models from libraries without fully unders
 
 - [x] Linear Regression
 - [x] Feature Scaling and Learning Rate (Linear regression)
+- [x] polynomial Regression (Feature engineering)
 - [ ] Logistic Regression
 - [ ] K-Nearest Neighbors (KNN)
 - [ ] Decision Trees
