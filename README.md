@@ -31,7 +31,7 @@ Many students import machine learning models from libraries without fully unders
 - [x] Feature Scaling and Learning Rate (Linear regression)
 - [x] polynomial Regression (Feature engineering)
 - [x] Linear regression with scikit learn (Examples...)
-- [ ] Logistic Regression
+- [x] Logistic Regression
 - [ ] K-Nearest Neighbors (KNN)
 - [ ] Decision Trees
 - [ ] Support Vector Machines (SVM)
