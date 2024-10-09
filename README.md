@@ -33,6 +33,7 @@ Many students import machine learning models from libraries without fully unders
 - [x] Linear regression with scikit learn (Examples...)
 - [x] Logistic Regression
 - [x] Logistic Regression Using Scikit learn
+- [x] Stochastique gradient descent (SGD)
 - [ ] K-Nearest Neighbors (KNN)
 - [ ] Decision Trees
 - [ ] Support Vector Machines (SVM)
