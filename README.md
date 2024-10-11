@@ -41,7 +41,7 @@ Many students import machine learning models from libraries without fully unders
 
 Stay tuned for more models as they are continuously added!
 
-## Setup and Installation
+## Setup and Installation :
 
 To get started, clone the repository and install the required dependencies:
 
