@@ -25,7 +25,8 @@ Many students import machine learning models from libraries without fully unders
 - Practical examples using real datasets.
 - Designed for both beginners and advanced learners.
 
-## Models Implemented
+## Models Implemented:
+
 
 - [x] Linear Regression
 - [x] Feature Scaling and Learning Rate (Linear regression)
