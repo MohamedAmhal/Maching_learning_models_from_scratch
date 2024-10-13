@@ -35,9 +35,10 @@ Many students import machine learning models from libraries without fully unders
 - [x] Logistic Regression
 - [x] Logistic Regression Using Scikit learn
 - [x] Stochastique gradient descent (SGD)
+- [x] Support Vector Machines (SVM)
 - [x] K-Nearest Neighbors (KNN)
-- [ ] Decision Trees
-- [ ] Support Vector Machines (SVM)
+- [x] Decision Trees
+- [ ] Random forest using Scikit learn 
 - [ ] Neural Networks (coming soon)
 
 Stay tuned for more models as they are continuously added!
