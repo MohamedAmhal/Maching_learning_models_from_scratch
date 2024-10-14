@@ -10,7 +10,3 @@ This repository contains an implementation of the Random Forest algorithm, a pow
 - **Ensemble Learning**: Combines multiple decision trees to improve model accuracy and prevent overfitting.
 - **Versatile**: Suitable for both classification and regression tasks.
 - **Feature Importance**: Automatically ranks the importance of features used in the model, aiding in feature selection.
-
-## Directory Structure
-
-
