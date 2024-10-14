@@ -38,7 +38,7 @@ Many students import machine learning models from libraries without fully unders
 - [x] Support Vector Machines (SVM)
 - [x] K-Nearest Neighbors (KNN)
 - [x] Decision Trees
-- [ ] Random forest using Scikit learn 
+- [x] Random forest using Scikit learn 
 - [ ] Neural Networks (coming soon)
 
 Stay tuned for more models as they are continuously added!
