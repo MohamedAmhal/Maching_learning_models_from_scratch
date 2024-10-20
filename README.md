@@ -39,6 +39,7 @@ Many students import machine learning models from libraries without fully unders
 - [x] K-Nearest Neighbors (KNN)
 - [x] Decision Trees
 - [x] Random forest using Scikit learn 
+- [x] K-means clustring algo
 - [ ] Neural Networks (coming soon)
 
 Stay tuned for more models as they are continuously added!
